@@ -1,0 +1,8 @@
+# File biên dịch
+*.exe
+*.o
+*.out
+a.out
+# Editor
+.vscode/
+*.swp
